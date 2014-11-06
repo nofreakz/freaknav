@@ -23,7 +23,6 @@ __HOTKEYS__
 You can also navigate using hotkeys. To use this feature, you just need to put data-hotkey attribute to any page's link
 ```
 <a href="#" data-hotkey="r">My link with hotkey "R"</a>
-
 ```
 __NOTE__: The elements need to be loaded first, to ensure this, use: 
 
